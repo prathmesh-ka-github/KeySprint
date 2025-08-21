@@ -5,5 +5,5 @@ A modern and minimalist web application for serious typists. KeySprint helps you
 ## Tech Stack -
 1. MongoDB
 1. ExpressJS
-1. NextJS
+1. VueJS
 1. NodeJS
